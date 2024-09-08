@@ -1,4 +1,4 @@
-![profile](/img/1.png)
+![profile](/img/portfolio.png)
 
 
 <h1> 
