@@ -10,18 +10,16 @@
 </h1>
 
 <!-- Subheading: Description of yourself -->
-**`| Full Stack Web Developer Bootcamp Trainee | Certified Google Data Analytics Professional | Power BI |`**
-<br><br>
-**`Aspiring Full Stack Developer with a passion for web development and hands-on experience in building applications.`** <br>
-**`Eager to apply my skills in a collaborative environment to create efficient and user-friendly web solutions.`** <br>
-**`Continuously learning and improving my skills to stay updated with the latest technologies and enhance my capabilities.`**
+
+
+**`Self-taught web developer with a Bachelor’s degree in Mathematics and hands-on experience building full-stack application with modern frameworks, systems and architecture. Solid understanding in git version control and software development life
+cycle.`**
 
 <!-- Horizontal Line Separator -->
 ---
 
 <!-- Section: Languages and Tools -->
-<h2> 
-  
+<h2>   
   **`Languages and Tools`**
 </h2>
 
