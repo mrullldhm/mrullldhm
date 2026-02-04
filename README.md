@@ -12,7 +12,7 @@
 <!-- Subheading: Description of yourself -->
 
 
-**`WebDeveloper with a solid foundation in AWS Cloud Architecture and the Software Development Life Cycle (SDLC).
+**`Web Developer with a solid foundation in AWS Cloud Architecture and the Software Development Life Cycle (SDLC).
 Experienced in building end-to-end systems, from server-side scripting (Express.js, SQL, NoSQL) and Git version
 control to front-end design using React, Angular, and Tailwind CSS. Awarded the Singapore national award with a
 history of optimizing business processes and managing multi site operations`**
