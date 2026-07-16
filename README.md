@@ -1,73 +1,49 @@
-<!-- Profile Image -->
-![profile](/img/portfolio.png)
+# Amirul Adham
 
-<!-- Main Heading: Introduction with GIF -->
-<h1> 
-  <!-- Name and wave emoji -->
-  
-  **`Hi, I'm Amirul Adham`** 
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-</h1>
+**Web Developer @ Tide Analytics**
 
-<!-- Subheading: Description of yourself -->
+I build end-to-end web systems — from server-side APIs and data models to fast, responsive front ends. Currently shipping production software at Tide Analytics, where I joined as a Web Developer in April 2026.
 
+My path here wasn't typical: a Mathematics degree, then two years managing multi-site operations in Singapore — where I earned the national Excellent Service Award (EXSA) — before committing fully to software engineering. That background shapes how I work: analytical by training, process-driven by experience, and focused on outcomes over output.
 
-**`Web Developer with a solid foundation in AWS Cloud Architecture and the Software Development Life Cycle (SDLC).
-Experienced in building end-to-end systems, from server-side scripting (Express.js, SQL, NoSQL) and Git version
-control to front-end design using React, Angular, and Tailwind CSS. Awarded the Singapore national award with a
-history of optimizing business processes and managing multi site operations`**
-
-<!-- Horizontal Line Separator -->
 ---
 
-<!-- Section: Languages and Tools -->
-<h2>   
+## Stack
 
-  **`Languages and Tools`**
-</h2>
+| | |
+|---|---|
+| **Languages** | JavaScript, TypeScript, C#, SQL |
+| **Front end** | React, Next.js, Angular, Vue, Tailwind CSS |
+| **Back end** | Node.js, Express.js, ASP.NET |
+| **Databases** | PostgreSQL, MySQL, SQL Server, MongoDB |
+| **Cloud & DevOps** | AWS, Docker, CI/CD, Firebase, Cloudflare |
 
-<!-- Tools and Languages Icons with 15px right padding -->
-  <!-- Visual Studio Code Icon -->
-  <img alt="Visual Studio Code" title="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" />
-  <!-- HTML5 Icon -->
-  <img alt="HTML5" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" />
-  <!-- CSS3 Icon -->
-  <img alt="CSS3" title="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" />
-  <!-- JavaScript Icon -->
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" />
-  <!-- TypeScript Icon -->
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" align="left" />
-  <!-- React Icon -->
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" />
-  <!-- Node.js Icon -->
-  <img alt="Node.js" title="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" />
-  <!-- Git Icon -->
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" />
-  <!-- GitHub Icon -->
-  <img alt="GitHub" title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" align="left" /> 
-  <!-- MySQL Icon -->
-  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<br>
-
-<!-- Horizontal Line Separator -->
 ---
 
-<!-- Section: Connect with Me -->
-<h2> 
-  
-  **`Connect with me`**
-</h2>
+## Selected Work
 
-<!-- Social Media Icons -->
-[![website](./img/twitter-light.svg)](https://x.com/mrullldhm/codestackr#gh-light-mode-only) <!-- Twitter Light Mode -->
-[![website](./img/twitter-dark.svg)](https://x.com/mrullldhm/codestackr#gh-dark-mode-only) <!-- Twitter Dark Mode -->
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mrullldhm/codestackr#gh-light-mode-only) <!-- LinkedIn Light Mode -->
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mrullldhm/codestackr#gh-dark-mode-only) <!-- LinkedIn Dark Mode -->
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mrullldm/codestackr#gh-light-mode-only) <!-- Instagram Light Mode -->
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mrullldm/codestackr#gh-dark-mode-only) <!-- Instagram Dark Mode -->
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@Mrullldhm/codestackr#gh-light-mode-only) <!-- YouTube Light Mode -->
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@Mrullldhm/codestackr#gh-dark-mode-only) <!-- YouTube Dark Mode -->
+**Key2Key — Password Manager**
+End-to-end encrypted credential management. PBKDF2 key derivation and AES-256 encryption on the client side, so plaintext never leaves the browser. *Angular · Firebase*
+
+**Moresume — AI-Powered Resume Builder**
+Full-stack SaaS platform: AI-assisted content generation, drag-and-drop editing with live PDF preview, Clerk authentication, and Stripe subscriptions over a Prisma/PostgreSQL data model with auto-save and versioning. *Next.js · TypeScript · PostgreSQL*
+
+**Subscription Tracker API**
+RESTful backend for recurring-subscription tracking with scheduled email reminders. JWT auth, bcrypt hashing, and rate limiting for abuse prevention. *Node.js · Express · MongoDB · Upstash*
+
+**mrullldhm.com — Portfolio**
+Personal site engineered for SEO and Core Web Vitals, with Framer Motion transitions and server-side contact handling. *Next.js · TypeScript · Resend*
+
+---
+
+## Credentials
+
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+- **BSc (Hons) Mathematics** — Universiti Teknologi MARA
+- **Excellent Service Award (EXSA)** — Singapore Retailers Association, national award
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mrullldhm) · [X](https://x.com/mrullldhm) · [Instagram](https://www.instagram.com/mrullldm) · [mrullldhm94@gmail.com](mailto:mrullldhm94@gmail.com)
